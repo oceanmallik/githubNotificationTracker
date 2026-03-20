@@ -1,2 +1,2 @@
 # githubNotificationTracker
-A python script to track github notifications. 
+A lightweight Python script that fetches and displays unread GitHub notifications directly in the terminal.
