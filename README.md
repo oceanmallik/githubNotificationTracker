@@ -41,5 +41,7 @@ $env:GITHUB_PAT="your_token_here"
 ### 3. Run the Script
 Once your token is set in your terminal, simply run:
 
-`python github_tracker.py`
+```bash
+python github_tracker.py
+```
 *(Note: You may need to use `python3` depending on your system.)*
