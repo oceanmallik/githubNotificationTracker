@@ -7,6 +7,21 @@ A lightweight Python script that fetches and displays unread GitHub notification
 
 ---
 
+## How to Get Your Personal Access Token (PAT)
+Before you can run this script, you need a secure token so it can read your notifications. 
+
+1. Log in to GitHub and click your profile picture in the top right corner.
+2. Select **Settings** from the dropdown menu.
+3. Scroll to the very bottom of the left sidebar and click **Developer settings**.
+4. Click **Personal access tokens** on the left menu, then select **Tokens (classic)**.
+5. Click the **Generate new token** button and choose **Generate new token (classic)**.
+6. Type a note like "Notification Tracker" so you remember what it is for.
+7. Scroll down the list of permissions and check the box next to **notifications**.
+8. Scroll to the bottom and click **Generate token**.
+9. **Copy the token immediately!** GitHub will never show it to you again.
+
+---
+
 ## How to Run This Project
 
 ### 1. Prerequisites
