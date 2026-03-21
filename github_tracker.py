@@ -11,7 +11,7 @@ HEADERS = {
 
 def check_notifications():
     if not TOKEN:
-        print("❌ Error: GITHUB_PAT environment variable is not set.")
+        print("❌ Error: GITHUB_PAT environment variable is not set. See README.md file for more instruction. ")
         return
 
     # 2. The Request (Making the Call)
